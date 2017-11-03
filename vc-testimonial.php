@@ -158,4 +158,4 @@ function vc_testimonial_structure( $atts, $content ) {
 	$return .=	'</div>';
 	$return .= '</div>';
 	return $return;
-}   
+}
