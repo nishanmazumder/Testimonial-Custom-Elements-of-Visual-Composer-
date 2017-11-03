@@ -1,0 +1,47 @@
+/*
+	Project : Testimonial 
+	Author  : Nishan Mazumder
+*/
+
+.tm_body{
+	max-width: 100%;
+	padding: 5%;
+	margin: 2%;
+}
+
+.tm_client_img{
+	width: 35%;
+	position: relative;
+	display: block;
+	margin: 0px auto;
+	border-radius: 50%;
+}
+.tm_des{
+	display: block;
+}
+.tm_content{
+	border: 2px solid;
+	padding: 18% 5% 2%;
+    margin-top: -18%;
+}
+.tm_content>h3{
+	display: block !important;
+	font-size: 1.17em !important;
+	-webkit-margin-before: 1em !important;
+	-webkit-margin-after: -2em !important;
+	-webkit-margin-start: 0px !important;
+	-webkit-margin-end: 0px !important;
+	font-weight: bold !important;
+	text-align: center !important;
+	font-family: inherit;
+}
+.tm_content>p{
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	font-size: 15px !important;
+	text-align: center !important;
+	font-family: inherit;
+}
